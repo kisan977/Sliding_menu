@@ -1,0 +1,8 @@
+  background: rgb(250, 250, 252)
+    url(https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png)
+    50% 50% / 25px 25px no-repeat;
+}
+
+
+background: url(https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-arrow-right-b-128.png)
+    95% 50% / 16px 16px no-repeat;
